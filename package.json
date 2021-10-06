@@ -44,5 +44,8 @@
     ]
   },
   "lint": "standard",
-  "lint-fix": "standard --fix"
+  "lint-fix": "standard --fix",
+  "dependencies": {
+    "styled-components": "^5.3.1"
+  }
 }
